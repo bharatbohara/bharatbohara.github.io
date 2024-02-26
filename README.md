@@ -40,15 +40,23 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
+        <h1>Bharat Bohara</h1>
+        <p>Ph.D. Research Assistant at University of Houston</p>
     </header>
 
     <section class="education">
         <h2>Education</h2>
         <ul>
+         <li>
+                <strong>University of Houston</strong> - Ph.D, Electrical and Computer Engineering<br>
+                <em>Graduation Date: Month Year</em>
+            </li>
+             <li>
+                <strong>Indian Institute of Technology</strong> - Masters of Technology, Energy & Control Systems Engineering<br>
+                <em>Graduation Date: Month Year</em>
+            </li>
             <li>
-                <strong>Kathmandu University</strong> - Bachelor in Engineering<br>
+                <strong>Kathmandu University</strong> - Bachelor of Engineering, Electrical and Electronics Engineering<br>
                 <em>Graduation Date: Month Year</em>
             </li>
         </ul>
