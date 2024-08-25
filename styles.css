@@ -60,7 +60,7 @@ nav a:hover {
 
 /* Active tab styling */
 nav a.active {
-    background-color: orange !important; /* Orange color for active tab */
+    background-color: #ff6700 !important; /* Vibrant orange color for active tab */
     color: white !important;
 }
 
