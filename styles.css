@@ -39,6 +39,15 @@ body {
     text-decoration: underline;
 }
 
+/* Align content text to the left on the resume page */
+.content {
+    text-align: left;
+    padding: 20px;
+}
+
+/* Maintain other styles for the page, such as padding and margins */
+
+
 nav {
     background-color: #333;
     overflow: hidden;
