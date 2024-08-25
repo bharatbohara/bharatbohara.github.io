@@ -45,6 +45,12 @@ body {
     padding: 20px;
 }
 
+/* Remove bullets in contact page */
+.no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+}
+
 /* Maintain other styles for the page, such as padding and margins */
 
 
